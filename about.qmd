@@ -2,7 +2,29 @@
 title: "About"
 ---
 
-- Nature-lover
-- Enjoys hiking
-- Currently doing research on climate risk assessment
+# Education
+
+-   Nanyang Technological University, Singapore
+    -   Interdisciplinary Graduate Program – Nanyang Environmental and Water Resource Institute (PhD) \[2020 - 2024\]
+    -   Civil and Environmental Engineering (Master of Engineering) \[2018 - 2020\]
+-   National University of Singapore
+    -   Bachelor of Environmental Studies \[2014 – 2018\]
+
+# Skills and key competencies
+
+- **Programming languages**
+  - Python (software development, machine learning, backend development, data analysis) (Relevant packages: GDAL/OGR, rasterio, shapely, numpy, pandas, scipy, matplotlib, scikit-learn, pandas, matplotlib, XGBoost, tensorflow, keras) [*Advanced*]
+  - R (data analysis) [*Advanced*]
+  - MATLAB (data analysis) [*Intermediate*]
+  - Kotlin (Android app development) [*Intermediate*]
+  - SQL (database management) [*Beginner*]
+  - C++ (Arduino development) [*Beginner*]
+- **Version control**
+  - Git, Github [*Intermediate*]
+- **Modelling software**
+  - QGIS, PyQGIS, ArcGis Pro [*Advanced*]
+  - QSWAT, SWAT-CUP (Soil and Water Assessment Tool) for water quality modelling within the Johor River Basin [*Intermediate*]
+  - Ansys FLUENT 2020R (Computational Fluid Dynamics) [*Beginner*]
+- **Certifications**
+  - CAAS-certified Unmanned Aerial Pilot License to operate drones up to 25 kg
 

@@ -1,16 +1,18 @@
 ---
-title: "Quarto_CV"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Profile
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My key interests lie in the nexus of environmental monitoring, remote sensing and machine learning applications. 
+My inquisitiveness and passion for problem-solving has equipped me with a keen sense for inspecting and analysing the nature of the data, which enabled me to efficiently utilize my technical skills in algorithm development, application of machine learning tools, and software development for producing practical solutions. 
+
+As a highly adaptable individual and a team player, I delved into various interdisciplinary projects such as working on riverine, inland water bodies and coastal projects in Malaysia and Singapore through close collaborations with academic and industry professionals. 
+Translating theory to practical applications is the principal goal in my professional work, which has spurred me to create many open-source projects with the community in mind, and applying my research output in industrial domains. 
+
 
 ```{r}
-1 + 1
-```
-
-```{r}
-current_date = Sys.Date()
-sprintf("CV Created on %10s", current_date)
+#| echo: false
+#| output: true
+sprintf("CV updated on %10s", Sys.Date())
 ```
