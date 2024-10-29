@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 3efe9af4-5c39-4183-b39e-97d2dd655985
+      url: 'https://pakhuiying.quarto.pub/quarto-cv'

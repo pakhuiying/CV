@@ -1,0 +1,16 @@
+---
+title: "Quarto_CV"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+
+```{r}
+current_date = Sys.Date()
+sprintf("CV Created on %10s", current_date)
+```

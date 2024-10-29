@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Number of publications: …"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Nature-lover\nEnjoys hiking\nCurrently doing research on climate risk assessment"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto_CV",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\ncurrent_date = Sys.Date()\nsprintf(\"CV Created on %10s\", current_date)\n\n[1] \"CV Created on 2024-10-29\""
+  }
+]
