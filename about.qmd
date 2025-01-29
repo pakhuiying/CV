@@ -2,29 +2,50 @@
 title: "About"
 ---
 
+{{< iconify simple-icons orcid size=lg >}} : 0000-0003-0168-3782
+
 # Education
 
--   Nanyang Technological University, Singapore
-    -   Interdisciplinary Graduate Program – Nanyang Environmental and Water Resource Institute (PhD) \[2020 - 2024\]
+-   **Nanyang Technological University, Singapore (NTU)**
+    -   Interdisciplinary Graduate Program – Environmental Process Modelling Centre, Nanyang Environmental and Water Resource Institute (PhD) \[2020 - 2024\]
     -   Civil and Environmental Engineering (Master of Engineering) \[2018 - 2020\]
--   National University of Singapore
+-   **National University of Singapore (NUS)**
     -   Bachelor of Environmental Studies \[2014 – 2018\]
 
 # Skills and key competencies
 
-- **Programming languages**
-  - Python (software development, machine learning, backend development, data analysis) (Relevant packages: GDAL/OGR, rasterio, shapely, numpy, pandas, scipy, matplotlib, scikit-learn, pandas, matplotlib, XGBoost, tensorflow, keras) [*Advanced*]
-  - R (data analysis) [*Advanced*]
-  - MATLAB (data analysis) [*Intermediate*]
-  - Kotlin (Android app development) [*Intermediate*]
-  - SQL (database management) [*Beginner*]
-  - C++ (Arduino development) [*Beginner*]
-- **Version control**
-  - Git, Github [*Intermediate*]
-- **Modelling software**
-  - QGIS, PyQGIS, ArcGis Pro [*Advanced*]
-  - QSWAT, SWAT-CUP (Soil and Water Assessment Tool) for water quality modelling within the Johor River Basin [*Intermediate*]
-  - Ansys FLUENT 2020R (Computational Fluid Dynamics) [*Beginner*]
-- **Certifications**
-  - CAAS-certified Unmanned Aerial Pilot License to operate drones up to 25 kg
+-   **Programming languages**
+    -   Python (software development, machine learning, backend development, data analysis) (Relevant packages: GDAL/OGR, OSMnx, NetworkX, rasterio, shapely, numpy, pandas, scipy, matplotlib, scikit-learn, pandas, matplotlib, XGBoost, tensorflow, keras, PyMC) \[*Advanced*\]
+    -   R (data analysis) \[*Advanced*\]
+    -   MATLAB (data analysis) \[*Intermediate*\]
+    -   Kotlin (Android app development) \[*Intermediate*\]
+    -   SQL (database management) \[*Beginner*\]
+    -   C++ (Arduino development) \[*Beginner*\]
+-   **Version control**
+    -   Git, Github \[*Intermediate*\]
+-   **Modelling software**
+    -   QGIS, PyQGIS, ArcGis Pro \[*Advanced*\]
+    -   QSWAT, SWAT-CUP (Soil and Water Assessment Tool) for water quality modelling within the Johor River Basin \[*Intermediate*\]
+    -   Ansys FLUENT 2020R (Computational Fluid Dynamics) \[*Beginner*\]
+-   **Certifications**
+    -   CAAS-certified Unmanned Aerial Pilot License to operate drones up to 25 kg
 
+# Awards
+
+-   Awarded the Merit Award for 2023 Ministry Of Transport Innovations Award for a collaborative R&D project with the Maritime Ports Authority of Singapore and DHI Singapore on “AI-enabled Multispectral Imaging using UAV for Turbidity Monitoring”. \[*2023*\]
+-   Top 24 finalists for the Singapore India Hackathon (SIH) \[*2023*\]
+-   Awarded the Nanyang Graduate Scholarship (NGS) Water \[*2020*\]
+-   Awarded the Nanyang Research Scholarship \[*2018*\]
+-   Awarded the NUS Kent Ridge Undergraduate Scholarship \[*2014*\]
+
+# Services
+
+-   **Society of Women Engineer \@ NTU (SWE\@NTU)**
+    -   Served in an executive committee role in:
+    -   Social Director (AY23/24)
+    -   Post graduate representative (AY22/23)
+    -   General Secretary (AY21/22)
+    -   Responsibilities: liaising with corporate partners such as Micron, HP, Pratt & Whitney, Motorola, and BP for collaboration events with SWE\@NTU; organizing casual coffee chats with corporate partners and negotiating sponsorship deals for flagship events.
+-   **Robotics club \@ NTU**
+    -   Served as a sub-committee role.
+    -   Responsibilities: Organizing and conducting workshops, facilitating and ideating robotics project for undergraduate students.

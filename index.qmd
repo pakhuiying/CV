@@ -1,15 +1,14 @@
 ---
-title: "Home"
+title: "Profile"
 ---
 
-# Profile
+![](images/ProfilePic.jpg){style="float:left; padding-right: 50px" fig-alt="" width="300"} Hi, I'm Hui Ying!
 
-My key interests lie in the nexus of environmental monitoring, remote sensing and machine learning applications. 
-My inquisitiveness and passion for problem-solving has equipped me with a keen sense for inspecting and analysing the nature of the data, which enabled me to efficiently utilize my technical skills in algorithm development, application of machine learning tools, and software development for producing practical solutions. 
+I am currently in my first post-doc journey at the Singapore Management University (SMU), working on a research project - "Developing a risk assessment and communication platform to translate climate projections to policy". It entails developing a climate risk assessment for Singapore - focusing on risks to the built environment from pluvial flooding, sea-level rise, and urban overheating, which aims to inform policies.
 
-As a highly adaptable individual and a team player, I delved into various interdisciplinary projects such as working on riverine, inland water bodies and coastal projects in Malaysia and Singapore through close collaborations with academic and industry professionals. 
-Translating theory to practical applications is the principal goal in my professional work, which has spurred me to create many open-source projects with the community in mind, and applying my research output in industrial domains. 
+Prior to my postdoctoral research, my Masters and PhD research at Nanyang Technological University (NTU) lie in the nexus of environmental monitoring, remote sensing and machine learning applications. I had the opportunity to work on various interdisciplinary projects in riverine, inland water bodies, and coastal environments in Malaysia and Singapore through close collaborations with academic, agencies, and industry professionals.
 
+Translating theory to practical applications is the principal goal in my professional work, which has spurred me to create many [open-source projects](https://github.com/pakhuiying) with the community in mind, and applying my [research output](https://scholar.google.com/citations?user=Sphg4YUAAAAJ&hl=en) in industrial domains.
 
 ```{r}
 #| echo: false

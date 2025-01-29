@@ -1,14 +1,45 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Pak Hui Ying's CV"
   navbar:
+    pinned: true
+    search: false
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - publications.qmd
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      # - about.qmd
+      # - publications.qmd
+    right:
+      # - icon: github
+      #   text: Github
+      #   href: "https://github.com/pakhuiying"
+      # - text: "{{< iconify fa6-brands google-scholar size=2xl >}}"
+      #   href: "https://scholar.google.com/citations?user=Sphg4YUAAAAJ&hl=en"
+      # - icon: linkedin
+      #   text: LinkedIn
+      #   href: 'https://www.linkedin.com/in/hui-ying-pak-352853159/'
+      # - icon: envelope
+      #   text: Email
+      #   href: 'mailto:hypak@smu.edu.sg'
+      - text: "{{< iconify fa6-brands github size=2xl label=github >}}"
+        href: "https://github.com/pakhuiying"
+      - text: "{{< iconify fa6-brands google-scholar size=2xl >}}"
+        href: "https://scholar.google.com/citations?user=Sphg4YUAAAAJ&hl=en"
+      - text: "{{< iconify simple-icons researchgate size=2xl >}}"
+        href: "https://www.researchgate.net/profile/Huiying-Pak"  
+      - text: "{{< iconify fa6-brands linkedin size=2xl >}}"
+        href: 'https://www.linkedin.com/in/hui-ying-pak-352853159/'
+      - text: "{{< iconify material-symbols mail size=2xl >}}"
+        href: 'mailto:hypak@smu.edu.sg'
+      
+      
 
 format:
   html:
