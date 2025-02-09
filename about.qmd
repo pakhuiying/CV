@@ -1,5 +1,6 @@
 ---
 title: "About"
+bibliography: references.bib
 ---
 
 {{< iconify simple-icons orcid size=lg >}} : 0000-0003-0168-3782

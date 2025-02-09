@@ -3,7 +3,7 @@ title: "Publications"
 csl: apa.csl
 bibliography: references.bib
 ---
-
+(@)   [Sun Glint-Aware Restoration (SUGAR): a robust sun glint correction algorithm for UAV imagery to enhance monitoring of turbid coastal environments](https://link.springer.com/article/10.1007/s10661-025-13702-6)[@pak2025]
 (@)   [Correction of systematic image misalignment in direct georeferencing of UAV multispectral imagery](https://www.tandfonline.com/doi/abs/10.1080/01431161.2024.2440944)[@pak2024]
 (@)   [CoastalWQL: An Open-Source Tool for Drone-Based Mapping of Coastal Turbidity Using Push Broom Hyperspectral Imagery](https://www.mdpi.com/2072-4292/16/4/708)[@pak2024coastalwql]
 (@)   [Retrieval of total suspended solids concentration from hyperspectral sensing using hierarchical Bayesian model aggregation for optimal multiple band ratio analysis](https://www.sciencedirect.com/science/article/abs/pii/S1570644322000612)[@pak2023retrieval]
