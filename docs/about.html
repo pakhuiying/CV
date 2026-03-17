@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-bf19b75f51ea680c8de03e84aa65eabd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -82,7 +82,6 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Pak Hui Ying’s CV</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -223,6 +222,12 @@ ul.task-list li input[type="checkbox"] {
 <section id="services" class="level1">
 <h1>Services</h1>
 <ul>
+<li><strong>SMU Researcher Club</strong>
+<ul>
+<li>Currently serving as an executive committee role.</li>
+<li>Ideating and planning for activities to promote participation, sharing, and collaboration within the SMU research community, particularly for Research staff and Postgraduate students.</li>
+</ul></li>
+<li>Reviewer for Sustainability Living Lab’s <em>Climate Adaptation Playbook</em>.</li>
 <li><strong>Society of Women Engineer @ NTU (SWE@NTU)</strong>
 <ul>
 <li>Served in an executive committee role in:</li>
@@ -234,7 +239,7 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Robotics club @ NTU</strong>
 <ul>
 <li>Served as a sub-committee role.</li>
-<li>Responsibilities: Organizing and conducting workshops, facilitating and ideating robotics project for undergraduate students.</li>
+<li>Responsibilities: Organizing and conducting workshops (e.g.&nbsp;3D printing workshop, Git &amp; Github), facilitating and ideating robotics project for undergraduate students.</li>
 </ul></li>
 </ul>
 
@@ -324,8 +329,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -436,7 +439,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

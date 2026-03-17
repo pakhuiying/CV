@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-bf19b75f51ea680c8de03e84aa65eabd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -82,7 +82,6 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Pak Hui Ying’s CV</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -159,12 +158,18 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><img src="images/ProfilePic.jpg" class="img-fluid" style="float:left; padding-right: 50px" alt="" width="300"> Hi, I’m Hui Ying!</p>
-<p>I am currently in my first post-doc journey at the Singapore Management University (SMU), working on a research project - “Developing a risk assessment and communication platform to translate climate projections to policy”. It entails developing a climate risk assessment for Singapore - focusing on risks to the built environment from pluvial flooding, sea-level rise, and urban overheating, which aims to inform policies.</p>
+<p>I am currently in my first post-doc journey at the Singapore Management University (SMU), working on developing a climate risk assessment and a Virtual Reality (VR) communication platform to translate climate projections to policy. Specifically, my research focuses on compounding and cascading risks to the built environment from pluvial flooding, sea-level rise, and urban overheating.</p>
+<p><strong>Current research projects</strong>:</p>
+<ul>
+<li><p>Pak, H. Y., Sha, A., Valenzuela, V.P.B., Ho, X.T., Chow, W.T.L., &amp; Van Gevelt, T. (Forthcoming). Downward counterfactuals reveal urban vulnerabilities to future climate extremes [manuscript in preparation].</p></li>
+<li><p>Pak, H. Y., Zheng, S., Liao, W., &amp; Chow, W.T.L. (Forthcoming). Flood Risk, Adaptation, and Housing Prices: Evidence from Recurrent Urban Flooding in Singapore [manuscript in preparation].</p></li>
+<li><p>Pak, H. Y., Heng, S.L., Ho, X.T., Ho, B., Yik, S.K., Mandelmilch, M., &amp; Chow, W.T.L.(Forthcoming). Heat Risk Index for the Humid Tropical city of Singapore: Insights on Stakeholder Engagement [manuscript in preparation].</p></li>
+</ul>
 <p>Prior to my postdoctoral research, my Masters and PhD research at Nanyang Technological University (NTU) lie in the nexus of environmental monitoring, remote sensing and machine learning applications. I had the opportunity to work on various interdisciplinary projects in riverine, inland water bodies, and coastal environments in Malaysia and Singapore through close collaborations with academic, agencies, and industry professionals.</p>
-<p>Translating theory to practical applications is the principal goal in my professional work, which has spurred me to create many <a href="https://github.com/pakhuiying">open-source projects</a> with the community in mind, and applying my <a href="https://scholar.google.com/citations?user=Sphg4YUAAAAJ&amp;hl=en">research output</a> in industrial domains.</p>
+<p>Translating theory to practical applications is the principal goal in my professional work, which has encouraged me to create many <a href="https://github.com/pakhuiying">open-source projects</a> with the community in mind, and applying my <a href="https://scholar.google.com/citations?user=Sphg4YUAAAAJ&amp;hl=en">research output</a> in industrial domains.</p>
 <div class="cell">
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] "CV updated on 2025-01-30"</code></pre>
+<pre><code>[1] "CV updated on 2026-03-17"</code></pre>
 </div>
 </div>
 
@@ -253,8 +258,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -365,7 +368,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

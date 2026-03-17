@@ -17,17 +17,6 @@ website:
       # - about.qmd
       # - publications.qmd
     right:
-      # - icon: github
-      #   text: Github
-      #   href: "https://github.com/pakhuiying"
-      # - text: "{{< iconify fa6-brands google-scholar size=2xl >}}"
-      #   href: "https://scholar.google.com/citations?user=Sphg4YUAAAAJ&hl=en"
-      # - icon: linkedin
-      #   text: LinkedIn
-      #   href: 'https://www.linkedin.com/in/hui-ying-pak-352853159/'
-      # - icon: envelope
-      #   text: Email
-      #   href: 'mailto:hypak@smu.edu.sg'
       - text: "{{< iconify fa6-brands github size=2xl label=github >}}"
         href: "https://github.com/pakhuiying"
       - text: "{{< iconify fa6-brands google-scholar size=2xl >}}"

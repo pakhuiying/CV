@@ -41,6 +41,10 @@ bibliography: references.bib
 
 # Services
 
+-   **SMU Researcher Club**
+    -   Currently serving as an executive committee role.
+    -   Ideating and planning for activities to promote participation, sharing, and collaboration within the SMU research community, particularly for Research staff and Postgraduate students.
+-   Reviewer for Sustainability Living Lab's *Climate Adaptation Playbook*.
 -   **Society of Women Engineer \@ NTU (SWE\@NTU)**
     -   Served in an executive committee role in:
     -   Social Director (AY23/24)
@@ -49,4 +53,4 @@ bibliography: references.bib
     -   Responsibilities: liaising with corporate partners such as Micron, HP, Pratt & Whitney, Motorola, and BP for collaboration events with SWE\@NTU; organizing casual coffee chats with corporate partners and negotiating sponsorship deals for flagship events.
 -   **Robotics club \@ NTU**
     -   Served as a sub-committee role.
-    -   Responsibilities: Organizing and conducting workshops, facilitating and ideating robotics project for undergraduate students.
+    -   Responsibilities: Organizing and conducting workshops (e.g. 3D printing workshop, Git & Github), facilitating and ideating robotics project for undergraduate students.
