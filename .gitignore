@@ -4,3 +4,10 @@
 .Ruserdata
 
 /.quarto/
+.positai
+
+**/*.quarto_ipynb
+
+CV/
+application_guide/
+agents.md

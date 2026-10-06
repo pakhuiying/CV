@@ -4,22 +4,22 @@ title: "Profile"
 
 ![](images/ProfilePic.jpg){style="float:left; padding-right: 50px" fig-alt="" width="300"} Hi, I'm Hui Ying!
 
-I am currently in my first post-doc journey at the Singapore Management University (SMU), working on developing a climate risk assessment and a Virtual Reality (VR) communication platform to translate climate projections to policy. Specifically, my research focuses on compounding and cascading risks to the built environment from pluvial flooding, sea-level rise, and urban overheating.
+I am a Research Fellow at Singapore Management University (SMU) and a Visiting Scholar at the Massachusetts Institute of Technology (MIT). My research sits at the confluence of water systems, climate risk, environmental governance, and the translation of evidence into practical decisions.
 
-**Current research projects**:
+My work spans water-quality measurement, remote sensing, physical and statistical modelling, and climate-risk assessment. I work across the full chain from field and sensor data to interpretable risk frameworks and policy-relevant insights, with a particular focus on cascading and compounding risks in Asian cities.
 
-* Pak, H. Y., Sha, A., Valenzuela, V.P.B., Ho, X.T., Chow, W.T.L., & Van Gevelt, T. (Forthcoming). Downward counterfactuals reveal urban vulnerabilities to future climate extremes [manuscript in preparation].
+### current research
 
-*	Pak, H. Y., Zheng, S., Liao, W., & Chow, W.T.L. (Forthcoming). Flood Risk, Adaptation, and Housing Prices: Evidence from Recurrent Urban Flooding in Singapore [manuscript in preparation].
+At **SMU**, I develop climate-risk assessments for Singapore using downscaled climate projections, probabilistic pluvial-flood models, and mobility and productivity simulations. These assessments are being operationalised through a VR platform as a communication tool to improve the translation of climate projections into policy. With Cooling Singapore 2.0, I lead the development of a Heat Risk Index for Singapore while engaging government stakeholders to identify policy salience and translate research insights into actionable policies for urban heat planning.
 
-*	Pak, H. Y., Heng, S.L., Ho, X.T., Ho, B., Yik, S.K., Mandelmilch, M., & Chow, W.T.L.(Forthcoming). Heat Risk Index for the Humid Tropical city of Singapore: Insights on Stakeholder Engagement [manuscript in preparation].
+At **MIT**, through the Center for Real Estate and the Department of Urban Studies and Planning, my work focuses on climate risk, sustainable cities, and real-estate responses in Singapore, including the effects of pluvial floods and adaptive infrastructure on housing markets. I am currently exploring research on the environmental governance of data centres and AI infrastructure, particularly cross-border data-centre arrangements between Singapore and Malaysia.
 
-Prior to my postdoctoral research, my Masters and PhD research at Nanyang Technological University (NTU) lie in the nexus of environmental monitoring, remote sensing and machine learning applications. I had the opportunity to work on various interdisciplinary projects in riverine, inland water bodies, and coastal environments in Malaysia and Singapore through close collaborations with academic, agencies, and industry professionals.
-
-Translating theory to practical applications is the principal goal in my professional work, which has encouraged me to create many [open-source projects](https://github.com/pakhuiying) with the community in mind, and applying my [research output](https://scholar.google.com/citations?user=Sphg4YUAAAAJ&hl=en) in industrial domains.
+Earlier research at Nanyang Technological University connected environmental monitoring, remote sensing, and machine learning across riverine, inland-water, and coastal environments in Malaysia and Singapore. I also develop [open-source projects](https://github.com/pakhuiying) and share my [research output](https://scholar.google.com/citations?user=Sphg4YUAAAAJ&hl=en) for use beyond academia.
 
 ```{r}
 #| echo: false
 #| output: true
 sprintf("CV updated on %10s", Sys.Date())
 ```
+
+

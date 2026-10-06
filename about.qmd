@@ -3,9 +3,7 @@ title: "About"
 bibliography: references.bib
 ---
 
-{{< iconify simple-icons orcid size=lg >}} : 0000-0003-0168-3782
-
-# Education
+## Education
 
 -   **Nanyang Technological University, Singapore (NTU)**
     -   Interdisciplinary Graduate Program – Environmental Process Modelling Centre, Nanyang Environmental and Water Resource Institute (PhD) \[2020 - 2024\]
@@ -13,25 +11,21 @@ bibliography: references.bib
 -   **National University of Singapore (NUS)**
     -   Bachelor of Environmental Studies \[2014 – 2018\]
 
-# Skills and key competencies
+## Skills and key competencies
 
--   **Programming languages**
-    -   Python (software development, machine learning, backend development, data analysis) (Relevant packages: GDAL/OGR, OSMnx, NetworkX, rasterio, shapely, numpy, pandas, scipy, matplotlib, scikit-learn, pandas, matplotlib, XGBoost, tensorflow, keras, PyMC) \[*Advanced*\]
-    -   R (data analysis) \[*Advanced*\]
-    -   MATLAB (data analysis) \[*Intermediate*\]
-    -   Kotlin (Android app development) \[*Intermediate*\]
-    -   SQL (database management) \[*Beginner*\]
-    -   C++ (Arduino development) \[*Beginner*\]
--   **Version control**
-    -   Git, Github \[*Intermediate*\]
--   **Modelling software**
-    -   QGIS, PyQGIS, ArcGis Pro \[*Advanced*\]
-    -   QSWAT, SWAT-CUP (Soil and Water Assessment Tool) for water quality modelling within the Johor River Basin \[*Intermediate*\]
-    -   Ansys FLUENT 2020R (Computational Fluid Dynamics) \[*Beginner*\]
--   **Certifications**
-    -   CAAS-certified Unmanned Aerial Pilot License to operate drones up to 25 kg
+- **Geospatial analysis:** Python geospatial packages including GeoPandas, Shapely, GDAL/OGR, rasterio, netCDF, and OSMnx for spatial data processing, georegistration, spatial matching, and reproducible analysis; QGIS, ArcGIS Pro, PyQGIS, and Google Earth Engine for geospatial workflows and visualisation.
 
-# Awards
+- **Machine learning and statistical analysis:** Python and R/RStudio for data wrangling, machine learning, Bayesian modelling, uncertainty and sensitivity analysis, multivariate analysis, and applied econometrics, including spatial and hedonic models.
+
+- **Drone-based remote sensing:** UAV multispectral and hyperspectral imagery, image correction and alignment, sun-glint correction, turbidity mapping, and processing workflows for coastal and environmental monitoring.
+
+- **Water-quality modelling:** Water Quality Index development, hydrology and water-quality modelling, total suspended solids retrieval, and SWAT/QSWAT/SWAT-CUP applications for riverine and reservoir systems.
+
+- **Open-source tools and reproducible research:** Python, R, Quarto, Git/GitHub, and open-source software development, including CoastalWQL for processing hyperspectral imagery and producing coastal-turbidity maps, and [SUGAR (Sun Glint-Aware Restoration)](https://github.com/pakhuiying/SUGAR) for sun-glint correction in UAV imagery.
+
+- **Field and operational practice:** Water-quality sampling, stakeholder-facing decision-support tools, and a CAAS-certified Unmanned Aerial Pilot License for operating drones up to 25 kg.
+
+## Awards
 
 -   Awarded the Merit Award for 2023 Ministry Of Transport Innovations Award for a collaborative R&D project with the Maritime Ports Authority of Singapore and DHI Singapore on “AI-enabled Multispectral Imaging using UAV for Turbidity Monitoring”. \[*2023*\]
 -   Top 24 finalists for the Singapore India Hackathon (SIH) \[*2023*\]
@@ -39,12 +33,13 @@ bibliography: references.bib
 -   Awarded the Nanyang Research Scholarship \[*2018*\]
 -   Awarded the NUS Kent Ridge Undergraduate Scholarship \[*2014*\]
 
-# Services
+## Services
 
 -   **SMU Researcher Club**
     -   Currently serving as an executive committee role.
     -   Ideating and planning for activities to promote participation, sharing, and collaboration within the SMU research community, particularly for Research staff and Postgraduate students.
 -   Reviewer for Sustainability Living Lab's *Climate Adaptation Playbook*.
+-   Guest lecturer at Singapore Management University on “Small-Scale and Local Weather Effects: Thunderstorms and Urban Heat Islands”.
 -   **Society of Women Engineer \@ NTU (SWE\@NTU)**
     -   Served in an executive committee role in:
     -   Social Director (AY23/24)
@@ -54,3 +49,16 @@ bibliography: references.bib
 -   **Robotics club \@ NTU**
     -   Served as a sub-committee role.
     -   Responsibilities: Organizing and conducting workshops (e.g. 3D printing workshop, Git & Github), facilitating and ideating robotics project for undergraduate students.
+
+## Conferences
+
+-   **World Cities Summit: Science of Cities**, Singapore (2026): poster presentation on “Translate Climate Projections to Policy with Virtual Reality” and oral presentation on “Cooling Singapore: Solutions for a Heat-resilient City”.
+-   **UTokyo–NUS–MIT–PSU Quad Real Estate Conference**, Tokyo (2026): oral presentation on “Flooded but Resilient: Frequent Pluvial Floods, Adaptive Infrastructure, and Housing Market Responses in Singapore”.
+-   **12th International Conference on Urban Climate**, Rotterdam (2025): oral presentation on “Future rainfall extremes and pluvial flood risk assessment in Singapore”.
+-   **40th IAHR World Congress**, Vienna (2023): oral presentation on CoastalWQL software for UAV-based coastal water-quality monitoring.
+-   **HYPERNETS Science Conference**, Tervuren, Belgium (2023): oral presentation on Monte Carlo simulation of sun glitter and sensor configurations.
+-   **39th IAHR World Congress**, Granada (2022): oral presentation on retrieval of total suspended solids using hierarchical Bayesian model aggregation.
+-   **Singapore International Water Week**, Singapore (2021, 2022): participant and booth manager for the Nanyang Environment and Water Research Institute.
+-   **FOSS4G Buenos Aires Conference** (2021): participated in workshops on open-source lake-water-quality monitoring and Earth observation time-series analysis.
+-   **Sixth International SWAT Conference**, Cambodia (2019): oral and poster presentations on ammonium pollution modelling in the Johor River Basin.
+-   **Land Use/Cover Changes, Environment and Emissions in South/Southeast Asia Regional Science Meeting**, Johor, Malaysia (2018): participated in training on remote sensing and geospatial technologies.
